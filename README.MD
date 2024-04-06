@@ -9,7 +9,7 @@ We define example tasks with deadlines.
 We then periodically check the deadlines of these tasks using a loop and the time.sleep function to wait between checks.
 You can integrate this code snippet into your task manager project and adapt it according to your specific requirements, such as how you store and retrieve task data, how often you want to check for deadline alerts, and how you want to deliver notifications to the user.
 
-# Second Project Stone Paper Scissor Named Game1SPS
+Second Project Stone Paper Scissor Named Game1SPS
 This code defines functions to get the user's choice, generate the computer's choice, determine the winner, and a main function to orchestrate the game. The game continues until the user chooses to quit by entering anything other than "yes" when prompted to play again.
 
 
