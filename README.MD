@@ -14,7 +14,7 @@ This code defines functions to get the user's choice, generate the computer's ch
 
 
 # Thirst Project Guessing Mechanism
-Below is a Python code implementing a simple guessing mechanism for the Hangman game. This code allows the player to guess letters and provides feedback on whether the guesses are correct, incorrect, or if the letter has already been guessed.In this code:
+GueesgingMechanism.py is a Python code implementing a simple guessing mechanism for the Hangman game. This code allows the player to guess letters and provides feedback on whether the guesses are correct, incorrect, or if the letter has already been guessed.In this code:
 
 The is_valid_guess function checks if the guess is a single letter that hasn't been guessed already.
 The process_guess function adds the guess to the list of guessed letters and provides feedback on whether the guess is correct or incorrect.
