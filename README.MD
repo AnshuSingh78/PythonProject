@@ -13,4 +13,9 @@ You can integrate this code snippet into your task manager project and adapt it 
 This code defines functions to get the user's choice, generate the computer's choice, determine the winner, and a main function to orchestrate the game. The game continues until the user chooses to quit by entering anything other than "yes" when prompted to play again.
 
 
+# Thirst Project Guessing Mechanism
+Below is a Python code implementing a simple guessing mechanism for the Hangman game. This code allows the player to guess letters and provides feedback on whether the guesses are correct, incorrect, or if the letter has already been guessed.In this code:
 
+The is_valid_guess function checks if the guess is a single letter that hasn't been guessed already.
+The process_guess function adds the guess to the list of guessed letters and provides feedback on whether the guess is correct or incorrect.
+The main function orchestrates the game, displaying the word with blanks, getting the player's guess, validating the guess, and processing it. The game continues until the player correctly guesses all letters in the word.
